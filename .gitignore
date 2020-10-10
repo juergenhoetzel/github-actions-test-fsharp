@@ -11,3 +11,7 @@ fsautocomplete-*.zip
 # Development
 obj/
 .ionide/
+
+# Added automatically by `eldev init'.
+/.eldev
+/Eldev-local
